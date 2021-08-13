@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ramz001
-- 👀 I’m interested in ...frontend
-- 🌱 I’m currently learning ...css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on front-end stuff
+- 📫 How to reach me ..
 
 <!---
 Ramz001/Ramz001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
