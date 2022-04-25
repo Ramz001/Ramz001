@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramz001
-- 👀 I’m interested in Front-end
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on front-end stuff
 - 📫 How to reach me rkenjaev1@gmail.com
