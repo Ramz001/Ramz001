@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramz001
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Full Stack Web development
-- 💞️ I’m looking to collaborate on Any projects of any size
+- 💞️ I’m looking to collaborate on any projects of any size
 - 📫 How to reach me rkenjaev1@gmail.com
 
 <!---
