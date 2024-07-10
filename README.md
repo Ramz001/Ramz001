@@ -1,3 +1,13 @@
+# Welcome 
+My name is Ramz, I'm a full-stack web developer, who is always willing to learn more.
+
+# Tech I know
+JavaScript / Typescript
+React JS / Next JS 
+
+
+
+
 - 👋 Hi, I’m @Ramz001
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Full Stack Web development
