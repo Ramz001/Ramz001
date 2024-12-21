@@ -9,7 +9,7 @@
 
 🚀 **Recent Projects**
 
-- **Proliga.uz** - Leading the development of Uzbekistan's fantasy football platform [Live Demo](https://proliga.uz)
+- **Proliga.uz** - Leading the development of Uzbekistan's fantasy football platform. [Live demo](https://proliga.uz)
 
 💻 **Tech Stack**
 
