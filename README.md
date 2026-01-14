@@ -1,48 +1,19 @@
-<div align="center">
-  <h1>Hi 👋, I'm Ramzbek Kenjayev</h1>
-  <h3>A passionate Full Stack JavaScript/TypeScript Developer from Uzbekistan</h3>
-</div>
+# Hi, I’m Ramzbek Kenjayev 👋
 
-🔭 I'm currently working as:
-- Full-Stack Developer at Smart Software LLC
+## Full-Stack JavaScript / TypeScript Developer
 
+I’m a Full-Stack JavaScript/TypeScript Developer with advanced experience in **Next.js, React, and NestJS**, building production-grade web applications and complex **B2B platforms**. I led the development of **Proliga.uz** and delivered custom **Appsmith-based solutions**, solving critical frontend and backend challenges.
 
-🚀 **Recent Projects**
+I have strong expertise in modern frontend tooling (**TanStack Query/Table, shadcn/ui, TailwindCSS, Zod**) and backend systems (**Prisma, PostgreSQL, MySQL, Supabase**). My work includes end-to-end security: authentication, bot protection, API rate limiting, and **Nginx-level protections**.
 
-- **Proliga.uz** - Leading the development of Uzbekistan's fantasy football platform (Worked as a Team Lead). [Live demo](https://proliga.uz)
+I regularly implement **CI/CD pipelines**, **Docker-based deployments**, web scraping, and analytics/BI integrations (**Yandex.Metrica, DataLens**) to support scalable, data-driven systems.
 
-💻 **Tech Stack**
-
-- Frontend: React.js, Next.js
-- Languages: JavaScript / TypeScript, SQL, a little bit of C lang
-- State Management: Redux, Redux Toolkit, Redux Saga
-- Styling: TailwindCSS, Emotion, Material-UI (MUI) & more
-- Backend: Node.js, NestJS, Express.js
-- Database: PostgreSQL, Prisma ORM, MongoDB 
-- Testing: Jest, Supertest
-- Version Control: Git
-- Deployment: Vercel, VPS with NGINX
-- more and more
-
-🎓 **Education & Certifications**
-- Computer Information Systems for Business at MDIST (2023-2027)
-- IELTS - Band 7
-- freeCodeCamp Certifications:
-  - Responsive Web Design
-  - JavaScript Algorithms and Data Structures
-  - Front-end Development Libraries
-
-📫 **How to reach me**
-- Email: rkenjaev1@gmail.com
-- Phone: +998(99)315-48-07
-- Location: Tashkent, Uzbekistan
-
-💼 **Experience**
-- Freelance Full-stack Developer (2022-Present)
-- Full-Stack Developer at Smart Software LLC (2024-Present)
+I’m comfortable working in **remote and distributed teams** and enjoy solving complex technical problems that require deep understanding of libraries, frameworks, and real-world production constraints.
 
 ---
 
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
+## 📫 Contact
+
+- Telegram: **@Ramz00001**
+- Phone: **+998 77 017 87 34**
+- Email: **rkenjayev001@gmail.com**
