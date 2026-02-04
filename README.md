@@ -1,6 +1,6 @@
 # Hi, I’m Ramzbek Kenjayev 👋
 
-## Full-Stack JavaScript / TypeScript Developer
+## Full-Stack TypeScript Developer
 
 I’m a Full-Stack JavaScript/TypeScript Developer with advanced experience in **Next.js, React, and NestJS**, building production-grade web applications and complex **B2B platforms**. I led the development of **Proliga.uz** and delivered custom **Appsmith-based solutions**, solving critical frontend and backend challenges.
 
