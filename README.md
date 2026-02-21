@@ -14,6 +14,6 @@ I’m comfortable working in **remote and distributed teams** and enjoy solving 
 
 ## 📫 Contact
 
-- Telegram: **@Ramz00001**
+- Telegram: **[@Ramz00001](https://t.me/Ramz00001)**
 - Phone: **+998 77 017 87 34**
 - Email: **rkenjaev1@gmail.com**
